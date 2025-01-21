@@ -1,2 +1,7 @@
-#Code to say hello!
+"""
+hello.py
+
+This module provides functionality for greeting users.
+"""
+
 print('hello worldąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąąą')
