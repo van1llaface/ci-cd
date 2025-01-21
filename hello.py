@@ -4,4 +4,7 @@ hello.py
 This module provides functionality for greeting users.
 """
 
-GREET = "Hello, World!"
+def greet(name: str) -> str:
+    """Return a greeting message."""
+    return f"Hello, {name}!"
+
